@@ -1,0 +1,50 @@
+{
+  "content": [
+    {
+      "id": 4,
+      "title": "Compelted Spring POC API",
+      "description": "Compelted the User Task POC with authorization and validation",
+      "priority": "LOW",
+      "dueDate": "2025-07-04T17:00:00"
+    },
+    {
+      "id": 5,
+      "title": "Compelted Spring POC API123",
+      "description": "Compelted the User Task POC with authorization and validation",
+      "priority": "LOW",
+      "dueDate": "2025-07-07T17:00:00"
+    },
+    {
+      "id": 6,
+      "title": "Compelted Spring POC API12443",
+      "description": "Compelted the User Task POC with authorization and validation",
+      "priority": "LOW",
+      "dueDate": "2025-07-09T17:00:00"
+    }
+  ],
+  "pageable": {
+    "pageNumber": 0,
+    "pageSize": 10,
+    "sort": {
+      "empty": false,
+      "unsorted": false,
+      "sorted": true
+    },
+    "offset": 0,
+    "unpaged": false,
+    "paged": true
+  },
+  "last": true,
+  "totalElements": 3,
+  "totalPages": 1,
+  "size": 10,
+  "number": 0,
+  "sort": {
+    "empty": false,
+    "unsorted": false,
+    "sorted": true
+  },
+  "numberOfElements": 3,
+  "first": true,
+  "empty": false
+}
